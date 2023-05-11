@@ -11,10 +11,10 @@ module.exports = {
         14: '14px',
       },
       backgroundColor: {
-        'main-bg': '#FAFBFB',
+        'main-bg': '#F5FFFA',
         'main-dark-bg': '#20232A',
         'secondary-dark-bg': '#33373E',
-        'light-gray': '#F7F7F7',
+        'light-gray': '#FAEBD7',
         'half-transparent': 'rgba(0, 0, 0, 0.5)',
       },
       borderWidth: {
@@ -40,7 +40,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero-pattern':
-          "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+            "url('https://demos.wrappixel.com/premium-admin-templates/react/flexy-react/main/static/media/welcome-bg-2x-svg.25338f53.svg')",
       },
     },
   },
